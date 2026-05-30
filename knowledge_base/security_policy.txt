@@ -1,0 +1,6 @@
+Password Policy
+- Passwords must be at least 12 characters long
+- Passwords must contain uppercase, lowercase, numbers, and special characters
+- Users must change passwords every 90 days
+- Password reuse is not allowed for the last 5 passwords
+- Failed login attempts lock account for 15 minutes after 5 attempts

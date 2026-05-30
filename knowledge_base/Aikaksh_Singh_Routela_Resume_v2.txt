@@ -1,0 +1,79 @@
+Aikaksh Singh Routel a 
+ 
+AI/ML Engineer | Cybersecurity  Focu s 
+ 
+Phone: 9172220920 | Email:  aikakshsinghroutela@gmail.com  
+ 
+GitHub:  github.com/Aikaksh -Singh -Routela  | LinkedIn:  linkedin.com/in/aikaksh -singh -
+routela  | Hugging Face:  huggingface.co/Aikaksh -Singh -Routela  
+ 
+PROFESSIONAL SUMMARY  
+Self-taught AI Engineer with expertise in fine -tuning BERT for cybersecurity. Built and 
+deployed 3 production -ready text classification models with 87 -93% accuracy. Passionate 
+about NLP, threat detection, and building p ractical AI solutions.  
+ 
+TECHNICAL SKILLS  
+• Languages: Python, C#, JavaScript, TypeScript  
+• Frontend: React, Axios, HTML/CSS  
+• Backend & API: FastAPI, REST APIs, JWT Authentication, SQLAlchemy  
+• Database: SQLite, PostgreSQL  
+• ML/NLP: Hugging Face Transforme rs, BERT, Fine -tuning, PyTorch, Scikit -learn  
+• Deployment: Vercel, Railway, Streamlit, Hugging Face Spaces, Docker  
+• Game Dev & Visualization: Unity 3D, 3D Visualization, UDP Networking  
+• Tools: Git, GitHub, Google Colab, Swagger UI  
+ 
+ 
+Projects  
+ 
+1. Threat Alert Dashboard  | GitHub  
+• Full -stack web application for managing cybersecurity threat alerts  
+• React + TypeScript frontend with JWT authentication  
+• FastAPI backend with PostgreSQL database  
+• Live API docs:  https://web -production -30aa2.up.railway.app/docs  
+• Screenshot available in GitHub README  
+ 2. 3D Network Threat Visualizer  | GitHub  
+• Integrated Python ML model (98.92% accuracy) with Unity 3D via UDP 
+streaming  
+• Developed Unity C# receiver spawning green (normal) and red (threat) 
+spheres  
+• Polymathic project combining AI, Cybersecurity, real -time systems, and 
+game dev  
+ 
+3. Cybersecurity Alert Classifier  | Live Demo  | GitHub  
+• Fine -tuned BERT  to classify security alerts into 5 threat categories  
+• Achieved 92.86% accuracy, deployed on Hugging Face Spaces  
+• 42+ downloads in first month  
+ 
+4. Real-Time Threat Detection Pipeline  | GitHub  
+• Built real -time threat detection system processing 2 logs/second  
+• Achieved 98.92% accuracy using Random Forest + TF -IDF 
+• Implemented queue -based architecture for streaming data  
+ 
+5. Threat Alert API (Live)  | Live Demo  | GitHub  | Docker  Hub 
+• REST API with JWT authentication and ML -based threat detection (60% 
+confidence)  
+• Containerized with Docker - docker pull aikaksh/threat -alert-api 
+• Production logging with Loguru (daily rotation, 7 -day retention, auto -
+compression)  
+• CI/CD pipeline - GitHub Actions auto -deploys to Render on push  
+• Interactive Swagger documentation at  /docs 
+ 
+6. RAG Customer Support API (Live)  | Live Demo  | GitHub  
+• Production RAG system using  fastembed  (lightweight, no PyTorch) for 
+memory efficiency  
+• FAISS vector search achieving 79.9% retrieval accuracy on customer queries  
+• Groq LLM  (Llama 3.3 70B) integration for natural, conversational answers  
+• FastAPI backend with interactive Swagger documentation at  /docs  
+• Deployed on  Render  with Python 3.11 and  CI/CD  
+ 
+ 
+ 
+EDUCATION & TRAINING  
+ 
+Self-directed AI/ML Engineer  
+• Completed intensive hands -on training in NLP and fine -tuning transformers  • Built and deployed 3 production models within 2 months  
+• Daily focused coding practice (6 -9 ho urs/day)  
+ 
+LOCATION & AVAILABILITY  
+    Nashik, India  
+     Open to full -time AI/ML Engineer roles (Remote/Hybrid/Relocation)  

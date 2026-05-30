@@ -1,0 +1,7 @@
+﻿Account Lockout Recovery
+
+If your account is locked after 5 failed login attempts:
+
+Step 1: Wait 15 minutes for automatic unlock
+Step 2: Click "Forgot Password" to reset
+Step 3: Contact support at support@example.com if still locked after 15 minutes

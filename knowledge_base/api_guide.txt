@@ -1,0 +1,5 @@
+API Authentication
+- Use Bearer tokens for authentication
+- Tokens expire after 30 minutes
+- To get a token, POST username/password to /token endpoint
+- Include token in Authorization header: Bearer <token>

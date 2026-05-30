@@ -1,0 +1,11 @@
+﻿Email Not Received Troubleshooting
+
+If you don't receive the password reset email:
+
+Step 1: Check your spam/junk folder
+Step 2: Wait 5 minutes - emails can be delayed
+Step 3: Verify you entered the correct email address
+Step 4: Add support@example.com to your contacts and try again
+Step 5: Contact support if still no email after 15 minutes
+
+Note: Reset links expire after 30 minutes
