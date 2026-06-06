@@ -3,7 +3,11 @@
 ## 🌐 Live Demo
 
 **Try it on your phone or computer:**  
-👉 [https://advanced-rag-system-eypyvqbcalwbgzmeopkwge.streamlit.app/](https://advanced-rag-system-eypyvqbcalwbgzmeopkwge.streamlit.app/) 👈
+
+## 🔗 Links
+
+- **Live Demo**: [advanced-rag-system.streamlit.app](https://advanced-rag-system-eypyvqbcalwbgzmeopkwge.streamlit.app/)
+- **GitHub**: [advanced-rag-system](https://github.com/Aikaksh-Singh-Routela/advanced-rag-system)
 
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
@@ -36,11 +40,6 @@ A **production-ready** Retrieval-Augmented Generation (RAG) system with hybrid s
 👉 **[Click here to try the live app](https://your-app-url.streamlit.app)** 👈
 
 ## 📦 Installation
-
-```bash
-# Clone repository
-git clone https://github.com/Aikaksh-Singh-Routela/advanced-rag-system.git
-cd advanced-rag-system
 
 # Install dependencies
 pip install -r requirements.txt
